@@ -1,0 +1,11 @@
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.mtj.tmp/
+*.ctxt
+
+.idea
+*.iml
